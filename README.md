@@ -4,7 +4,7 @@
 
 ## Description 
 
-A web application for Dungeons & Dragons players. This application provides the user with all the available spells (5E), which can be added to or removed from a personal spellbook.The spellbook provides the following information regarding the spell: Description, Range, Components, Ritual, Concentration, Casting Time, Level, School, Duration, Material, Archetype and Higher Level.
+A web application for Dungeons & Dragons players. This application provides the user with all the available spells (5E), which can be added to or removed from a personal spellbook.The spellbook provides the following information regarding the spell: Description, Range, Components, Ritual, Concentration, Casting Time, Level, School, Duration, Material, Archetype and Higher Level.  [Create your spellbook now](https://radiant-island-35045.herokuapp.com/login)
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ A web application for Dungeons & Dragons players. This application provides the 
 
 ## Usage
 
-  To initiate application "node server.js" or link
+  To initiate application "node server.js" or [head there now](https://radiant-island-35045.herokuapp.com/login)
 
 ## License
 
@@ -39,7 +39,9 @@ A web application for Dungeons & Dragons players. This application provides the 
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
-## Screenshots
+## Screenshots  
+[My DnD Spellbook](https://radiant-island-35045.herokuapp.com/login)  
+
 ![Capture2](https://user-images.githubusercontent.com/73205731/113464371-15b19a00-93fa-11eb-9004-a13c9cc310d0.PNG)
 ![Capture3](https://user-images.githubusercontent.com/73205731/113464372-164a3080-93fa-11eb-8674-cf7ca2070f20.PNG)
 ![Capture](https://user-images.githubusercontent.com/73205731/113464373-164a3080-93fa-11eb-8221-262585680b79.PNG)
@@ -48,5 +50,7 @@ A web application for Dungeons & Dragons players. This application provides the 
 
 ## Questions
 
-  How to reach me?
-  GitHub: https://github.com/Nickpodski
+  How to reach me?  
+  GitHub: https://github.com/Nickpodski  
+  GitHub: https://github.com/guie01  
+  GitHub: https://github.com/Tianwes
